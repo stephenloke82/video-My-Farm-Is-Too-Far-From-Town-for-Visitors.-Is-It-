@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.onnx
+*.bin
+# The full-quality upload master is too big for GitHub; the -repo copy is committed instead.
+output/my-farm-is-too-far-from-town.mp4
